@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biodata2</string>
+    <string-array name="daftar_kota">
+        <item>Tangerang</item>
+        <item>Jakarta</item>
+        <item>Jogjakarta</item>
+        <item>Bogor</item>
+        <item>Bandung</item>
+    </string-array>
+</resources>
